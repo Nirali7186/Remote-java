@@ -9,13 +9,13 @@ public class AppTest
     public AppTest() {
     }
 
-    @Test
+    @Test1
     public void testApp()
     {
         assertTrue( true );
     }
 
-    @Test
+    @Test2
     public void testMore()
     {
         assertTrue( true );
